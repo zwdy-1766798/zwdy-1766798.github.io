@@ -1,0 +1,59 @@
+#Header{
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto; 
+    margin-bottom:10px;
+    border: solid 8px black;
+    text-align: center;
+}
+#Header h1{
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color: #FFBC00; 
+    font-weight: bold;
+}
+#LeftNav{
+    width: 20%;
+    border: solid 8px black; 
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+}
+#Content{
+    width: 50%;
+    border: solid 8px black;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto; 
+    padding:15px;
+}
+#Footer{
+    border: solid 8px black;
+    text-align: center;  
+}
+img{
+    max-width: 75%;
+    height: auto;
+}
+ul{
+    list-style-type: none;    
+    padding-left: 0px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+body{
+    background-color: #8E41D5;
+}
+a{
+    colar: white;
+    font-weight: bold; 
+    font-size: 24px;
+}
+h3{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One"; 
+    margin-bottom: 0px;
+}
